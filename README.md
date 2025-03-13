@@ -1,9 +1,9 @@
 # 🚀 AI Tools for Product Management  
 
 ## 📌 Overview  
-As an **aspiring product manager**, I’m exploring how **AI is transforming product management** by automating tasks, improving decision-making, and enhancing collaboration. AI-powered tools are helping PMs save time by streamlining research, analytics, roadmap planning, and feature development.  
+As an **aspiring product manager**, I am exploring how **AI is transforming product management** by automating tasks, improving decision-making, and enhancing collaboration. AI-powered tools are helping PMs save time by streamlining **research, analytics, roadmap planning, and feature development**.  
 
-To understand AI’s real-world impact, I analyzed **AI adoption in a payments app**, focusing on how AI-driven insights improve **user experience, transaction security, and fraud detection**.  
+To dive deeper, I took the **case of a payments app** to analyze how AI enhances **transaction security, fraud detection, and customer experience**.  
 
 ## 🔥 Why This Project?  
 AI is revolutionizing product management by:  
@@ -64,6 +64,15 @@ As part of this project, I analyzed **how AI enhances a payments app** by improv
 
 ---
 
+## 📂 Additional AI Outputs  
+
+🔹 **Presentation on Credit Card Payments using Popai.pro**: [View Presentation](https://www.popai.pro/share.html?shareKey=a14bf0c2a7d4219527cf1c0df215ced6a241acca7d881e6a21f8dda42ebe64ca&utm_source=presentationsharepage&inviteCode=IN_A27Bp3KmAsc)  
+🔹 **Wireframes for Payments App using Visily**: [View Wireframes](https://app.visily.ai/projects/a9159e33-5423-4d4e-9209-d783c6a75dc4/boards/1703159)  
+
+📌 **Remaining AI-generated outputs, including research documents, analysis reports, and PRDs, can be found directly in the repository.**  
+
+---
+
 ## 💡 How to Use This Repository  
 - Explore the **AI tools** listed above.  
 - Experiment with them to optimize your **product management workflow**.  
@@ -80,7 +89,7 @@ Want to add more AI tools or enhance this project? Follow these steps:
 ## 📌 Connect With Me  
 If you're also exploring AI in product management or have insights to share, feel free to connect!  
 
-📧 **Email:** harishchintu6@gmail.com
-🔗 **LinkedIn:** https://www.linkedin.com/in/samala-harish/ 
+🔗 **LinkedIn:** [Harish Samala](https://www.linkedin.com/in/samala-harish)  
+💻 **GitHub:** [Harish Samala](https://github.com/samalaharish)  
 
 Let’s **leverage AI to build smarter, more efficient products!** 🚀  
